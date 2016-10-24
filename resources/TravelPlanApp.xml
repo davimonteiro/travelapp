@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project version="1.0" name="TravelPlanApp">
+	<component name="Component1">
+		<states>
+			<state id="0" x="111.0" y="256.0" label="0" initial="true">
+			</state>
+			<state id="1" x="210.0" y="256.0" label="1">
+			</state>
+			<state id="4" x="311.0" y="156.0" label="2">
+			</state>
+			<state id="6" x="311.0" y="65.0" label="3">
+			</state>
+			<state id="7" x="335.0" y="255.0" label="4">
+			</state>
+			<state id="8" x="337.0" y="349.0" label="5">
+			</state>
+			<state id="9" x="494.0" y="255.0" label="6">
+			</state>
+			<state id="10" x="497.0" y="346.0" label="7">
+			</state>
+			<state id="11" x="492.0" y="155.0" label="8">
+			</state>
+			<state id="14" x="640.0" y="257.0" label="9">
+			</state>
+			<state id="15" x="659.0" y="154.0" label="10">
+			</state>
+			<state id="16" x="644.0" y="348.0" label="11">
+			</state>
+			<state id="19" x="659.0" y="87.0" label="12">
+			</state>
+			<state id="20" x="819.0" y="333.0" label="13">
+			</state>
+			<state id="21" x="904.0" y="334.0" label="14" final="true">
+			</state>
+		</states>
+		<transitions>
+			<transition from="0" to="1" prob="1.0" label="start" view-type="0">
+			</transition>
+			<transition from="1" to="4" prob="0.0" label="searchAttraction" view-type="0">
+			</transition>
+			<transition from="4" to="6" label="failedSearchAttraction" guard="" view-type="0">
+			</transition>
+			<transition from="1" to="7" prob="1.0" label="searchFlight" view-type="0">
+			</transition>
+			<transition from="7" to="8" prob="1.0" label="failedSearchFlight" view-type="0">
+			</transition>
+			<transition from="7" to="9" prob="0.0" label="searchHotel" view-type="0">
+			</transition>
+			<transition from="9" to="10" label="failedSearchHotel" view-type="0">
+			</transition>
+			<transition from="9" to="11" label="" view-type="0">
+			</transition>
+			<transition from="4" to="11" label="" view-type="0">
+			</transition>
+			<transition from="11" to="14" label="rentBike" view-type="0">
+			</transition>
+			<transition from="14" to="16" label="failedRentBike" view-type="0">
+			</transition>
+			<transition from="15" to="19" label="failedRentCar" view-type="0">
+			</transition>
+			<transition from="20" to="21" label="stop" view-type="0">
+			</transition>
+			<transition from="20" to="1" label="" view-type="1">
+			</transition>
+			<transition from="21" to="21" label="end" view-type="1">
+			</transition>
+			<transition from="10" to="10" label="failure" view-type="1">
+			</transition>
+			<transition from="8" to="8" prob="1.0" label="failure" view-type="1">
+			</transition>
+			<transition from="19" to="19" label="failure" view-type="1">
+			</transition>
+			<transition from="11" to="15" label="rentCar" view-type="0">
+			</transition>
+			<transition from="16" to="16" label="failure" view-type="1">
+			</transition>
+			<transition from="6" to="6" label="failure" view-type="1">
+			</transition>
+			<transition from="15" to="20" label="" view-type="0">
+			</transition>
+			<transition from="14" to="20" label="" view-type="0">
+			</transition>
+		</transitions>
+	</component>
+</project>

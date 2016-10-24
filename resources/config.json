@@ -1,0 +1,22 @@
+{
+  "name": "config",
+  "traceFile": "/Users/davimonteiro/Desktop/TravelPlanApp/traces.csv",
+  "projectFile": "/Users/davimonteiro/Desktop/TravelPlanApp/TravelPlanApp.xml",
+  "properties": [ {
+      "sourceStateId": 0,
+      "targetStateId": 5,
+      "conditionalOperator": "LESS_THAN",
+      "probability": 0.15
+    }, {
+      "sourceStateId": 0,
+      "targetStateId": 3,
+      "conditionalOperator": "LESS_THAN",
+      "probability": 0.1
+    }, {
+      "sourceStateId": 0,
+      "targetStateId": 3,
+      "conditionalOperator": "LESS_THAN",
+      "probability": 0.2
+    }
+  ]
+}

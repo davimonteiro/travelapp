@@ -1,0 +1,100 @@
+start, searchFlight, failedSearchFlight, failure
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentCar, stop
+start, searchFlight, searchHotel, rentBike, failedRentBike, failure
+start, searchFlight, failedSearchFlight, failure
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, failedRentBike, failure
+start, searchFlight, failedSearchFlight, failure
+start, searchAttraction, rentBike, stop
+start, searchFlight, searchHotel, failedSearchHotel, failure
+start, searchFlight, failedSearchFlight, failure
+start, searchFlight, failedSearchFlight, failure
+start, searchFlight, searchHotel, rentCar, stop
+start, searchFlight, searchHotel, failedSearchHotel, failure
+start, searchFlight, searchHotel, rentCar, failedRentCar, failure
+start, searchAttraction, rentBike, stop
+start, searchAttraction, rentCar, stop
+start, searchAttraction, rentCar, failedRentCar, failure
+start, searchFlight, failedSearchFlight, failure
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, failedRentBike, failure
+start, searchAttraction, failedSearchAttraction, failure
+start, searchFlight, searchHotel, rentBike, failedRentBike, failure
+start, searchFlight, searchHotel, rentCar, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentCar, failedRentCar, failure
+start, searchAttraction, rentBike, stop
+start, searchFlight, searchHotel, rentBike, failedRentBike, failure
+start, searchFlight, searchHotel, rentBike, stop
+start, searchAttraction, rentBike, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, failedSearchHotel, failure
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentCar, stop
+start, searchFlight, searchHotel, failedSearchHotel, failure
+start, searchFlight, searchHotel, rentBike, stop
+start, searchAttraction, rentCar, failedRentCar, failure
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, failedRentBike, failure
+start, searchFlight, searchHotel, rentBike, failedRentBike, failure
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, failedRentBike, failure
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, failedSearchHotel, failure
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentCar, stop
+start, searchFlight, searchHotel, rentCar, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, failedSearchHotel, failure
+start, searchFlight, searchHotel, rentCar, stop
+start, searchFlight, searchHotel, rentCar, stop
+start, searchFlight, failedSearchFlight, failure
+start, searchAttraction, rentBike, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, failedSearchFlight, failure
+start, searchFlight, failedSearchFlight, failure
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentCar, stop
+start, searchFlight, failedSearchFlight, failure
+start, searchFlight, searchHotel, failedSearchHotel, failure
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, failedSearchHotel, failure
+start, searchFlight, searchHotel, rentBike, failedRentBike, failure
+start, searchFlight, searchHotel, failedSearchHotel, failure
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, failedSearchFlight, failure
+start, searchFlight, searchHotel, rentCar, stop
+start, searchFlight, searchHotel, rentBike, failedRentBike, failure
+start, searchAttraction, rentBike, stop
+start, searchFlight, searchHotel, failedSearchHotel, failure
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchAttraction, failedSearchAttraction, failure
+start, searchFlight, searchHotel, failedSearchHotel, failure
+start, searchAttraction, failedSearchAttraction, failure
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, failedSearchHotel, failure
+start, searchAttraction, rentBike, stop
+start, searchAttraction, rentCar, stop
+start, searchFlight, searchHotel, failedSearchHotel, failure
+start, searchFlight, searchHotel, failedSearchHotel, failure
+start, searchFlight, failedSearchFlight, failure
+start, searchFlight, failedSearchFlight, failure
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, searchHotel, rentBike, stop
+start, searchFlight, failedSearchFlight, failure
+start, searchFlight, searchHotel, rentCar, stop
+start, searchFlight, searchHotel, rentBike, stop
